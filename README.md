@@ -1,6 +1,6 @@
 
 # AI/ML Internship — Week 2: Titanic EDA
-**Student:** [Your Name]
+**Student:** [Haya Amir]
 **Dataset:** Titanic train.csv — 891 rows, 12 columns
 
 ## Top 3 Survival Insights
